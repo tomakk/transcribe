@@ -1,4 +1,4 @@
-ast
+
 pandas
 openai-whisper
 openai
