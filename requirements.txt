@@ -1,4 +1,4 @@
-
+ffmpeg
 pandas
 openai-whisper
 openai
