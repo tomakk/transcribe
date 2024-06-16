@@ -1,0 +1,5 @@
+ast
+pandas
+openai-whisper
+openai
+pydub
